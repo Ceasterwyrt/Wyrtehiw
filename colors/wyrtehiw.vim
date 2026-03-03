@@ -37,6 +37,13 @@ hi vimOptionVarName guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi VimString guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi vimVarScope guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 
+" Spelling
+
+hi SpellBad guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
+hi SpellCap guifg=#ffaf87 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE
+hi SpellRare guifg=#8787af ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE
+hi SpellLocal guifg=#5fafaf ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE
+
 " Help
 hi helpExample guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
 hi helpCommand guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
@@ -56,7 +63,6 @@ hi rstSectionDelimiter guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NON
 hi rstStrongEmphasis guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=bold
 hi rstTableLines guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 
-hi WildMenu guifg=#1c1c1c ctermfg=234 guibg=#87af5f ctermbg=107 gui=NONE
 hi ColorColumn guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Comment guifg=#767676 ctermfg=243 gui=NONE
 hi Constant guifg=#a8a8a8 ctermfg=248 guibg=NONE ctermbg=NONE gui=NONE
@@ -65,7 +71,6 @@ hi CursorLine guibg=#767676 ctermbg=239 gui=NONE
 hi CursorLineNR guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
 hi Delimiter guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi DiffText guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
-hi SpellBad guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi Directory guifg=#87afd7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE
 hi ErrorMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi FoldColumn guifg=#666666 ctermfg=241 guibg=#262626 ctermbg=235 gui=NONE
@@ -97,3 +102,4 @@ hi Type guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi VertSplit guifg=#666666 ctermfg=241 gui=NONE
 hi Visual guibg=#767676 ctermbg=239 gui=NONE
 hi WarningMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
+hi WildMenu guifg=#1c1c1c ctermfg=234 guibg=#87af5f ctermbg=107 gui=NONE
