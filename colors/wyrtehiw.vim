@@ -56,6 +56,7 @@ hi rstSectionDelimiter guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NON
 hi rstStrongEmphasis guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=bold
 hi rstTableLines guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 
+hi WildMenu guifg=#1c1c1c ctermfg=234 guibg=#87af5f ctermbg=107 gui=NONE
 hi ColorColumn guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Comment guifg=#767676 ctermfg=243 gui=NONE
 hi Constant guifg=#a8a8a8 ctermfg=248 guibg=NONE ctermbg=NONE gui=NONE
