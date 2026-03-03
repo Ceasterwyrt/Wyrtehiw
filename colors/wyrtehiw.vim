@@ -63,11 +63,12 @@ hi rstSectionDelimiter guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NON
 hi rstStrongEmphasis guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=bold
 hi rstTableLines guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 
+hi Added guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi ColorColumn guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Comment guifg=#767676 ctermfg=243 gui=NONE
 hi Constant guifg=#a8a8a8 ctermfg=248 guibg=NONE ctermbg=NONE gui=NONE
-hi Cursor guibg=#767676 ctermbg=239 gui=NONE
-hi CursorLine guibg=#767676 ctermbg=239 gui=NONE
+hi Cursor guifg=#1c1c1c ctermfg=234 guibg=#ffffd7 ctermbg=230 gui=NONE
+hi CursorLine guifg=#ffffd7 ctermfg=230 gui=NONE
 hi CursorLineNR guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
 hi Delimiter guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi DiffText guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
@@ -86,6 +87,7 @@ hi Pmenu guifg=#ffffd7 ctermfg=230 guibg=#1c1c1c ctermbg=234 gui=NONE
 hi PreProc guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi PreProc guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi Question guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
+hi Removed guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi Search guifg=#1c1c1c ctermfg=234 guibg=#87af5f ctermbg=221 gui=bold
 hi SignColumn guibg=#262626 ctermbg=235 gui=NONE
 hi Special guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
@@ -100,6 +102,6 @@ hi Title guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
 hi Title guifg=#ffffd7 ctermfg=230 gui=bold
 hi Type guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi VertSplit guifg=#666666 ctermfg=241 gui=NONE
-hi Visual guibg=#767676 ctermbg=239 gui=NONE
+hi Visual guifg=#1c1c1c ctermfg=234 guibg=#ffffd7 ctermbg=230 gui=NONE
 hi WarningMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi WildMenu guifg=#1c1c1c ctermfg=234 guibg=#87af5f ctermbg=107 gui=NONE
