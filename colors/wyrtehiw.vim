@@ -34,6 +34,7 @@ hi vimOper guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi vimOption guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi vimOptionVar guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi vimOptionVarName guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
+hi VimString guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi vimVarScope guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 
 " Help
