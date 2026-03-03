@@ -87,7 +87,7 @@ hi Special guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi SpecialComment guifg=#8787af ctermfg=103 gui=italic guibg=NONE ctermbg=NONE
 hi SpecialKey guifg=#87afd7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE
 hi Statement guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
-hi StatusLine guifg=#ffffd7 ctermfg=230 guibg=#3a3a3a ctermbg=237 gui=NONE
+hi StatusLine guifg=#a8a8a8 ctermfg=248 guibg=#1c1c1c ctermbg=239 gui=NONE
 hi StatusLineNC guifg=#767676 ctermfg=243 guibg=#3a3a3a ctermbg=237 gui=NONE
 hi TabLine guifg=#ffffd7 ctermfg=230 guibg=#3a3a3a ctermbg=237 gui=NONE
 hi TabLineFill guifg=#ffffd7 ctermfg=230 guibg=#3a3a3a ctermbg=237 gui=NONE
