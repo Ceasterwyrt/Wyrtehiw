@@ -57,7 +57,7 @@ hi rstTableLines guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 
 hi ColorColumn guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Comment guifg=#767676 ctermfg=243 gui=NONE
-hi Constant guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
+hi Constant guifg=#a8a8a8 ctermfg=248 guibg=NONE ctermbg=NONE gui=NONE
 hi Cursor guibg=#767676 ctermbg=239 gui=NONE
 hi CursorLine guibg=#767676 ctermbg=239 gui=NONE
 hi CursorLineNR guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
