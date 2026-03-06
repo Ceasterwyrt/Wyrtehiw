@@ -14,12 +14,10 @@ set t_Co=256
 " orange     #ffaf87 216
 " purple     #8787af 103
 " red        #ff5f5f 203
-" grey1      #1c1c1c 234
-" grey2      #4e4e4e 239
-" grey3      #666666 241
-" grey4      #767676 243
-" grey5      #a8a8a8 248
-" grey6      #3a3a3a 237
+" dark       #1c1c1c 234
+" dark_fg    #a8a8a8 248
+" dark_in    #767676 243
+" bg_in      #3a3a3a 237
 
 hi Normal guifg=#ffffd7 ctermfg=230 ctermbg=235 guibg=#262626 ctermbg=235 ctermfg=230
 
@@ -63,6 +61,7 @@ hi rstSectionDelimiter guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NON
 hi rstStrongEmphasis guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=bold
 hi rstTableLines guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 
+hi gnuOp guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi Added guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi ColorColumn guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Comment guifg=#767676 ctermfg=243 gui=NONE
@@ -74,7 +73,7 @@ hi Delimiter guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi DiffText guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi Directory guifg=#87afd7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE
 hi ErrorMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
-hi FoldColumn guifg=#666666 ctermfg=241 guibg=#262626 ctermbg=235 gui=NONE
+hi FoldColumn guifg=#767676 ctermfg=243 guibg=#262626 ctermbg=235 gui=NONE
 hi Folded guifg=#767676 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE
 hi Identifier guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
 hi IncSearch guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=bold
@@ -82,7 +81,7 @@ hi LineNr guifg=#767676 ctermfg=243 gui=NONE
 hi MatchParen guifg=NONE guibg=NONE ctermbg=NONE gui=bold
 hi NonText guifg=#767676 ctermfg=243 gui=NONE
 hi Number guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
-hi PMenuSel guifg=#ffffd7 ctermfg=230 guibg=#4e4e4e ctermbg=239 gui=NONE
+hi PMenuSel guifg=#ffffd7 ctermfg=230 guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Pmenu guifg=#ffffd7 ctermfg=230 guibg=#1c1c1c ctermbg=234 gui=NONE
 hi PreProc guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi PreProc guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
@@ -94,14 +93,14 @@ hi Special guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 hi SpecialComment guifg=#8787af ctermfg=103 gui=italic guibg=NONE ctermbg=NONE
 hi SpecialKey guifg=#87afd7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE
 hi Statement guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
-hi StatusLine guifg=#a8a8a8 ctermfg=248 guibg=#1c1c1c ctermbg=239 gui=NONE
+hi StatusLine guifg=#a8a8a8 ctermfg=248 guibg=#1c1c1c ctermbg=234 gui=NONE
 hi StatusLineNC guifg=#767676 ctermfg=243 guibg=#3a3a3a ctermbg=237 gui=NONE
 hi TabLine guifg=#ffffd7 ctermfg=230 guibg=#3a3a3a ctermbg=237 gui=NONE
 hi TabLineFill guifg=#ffffd7 ctermfg=230 guibg=#3a3a3a ctermbg=237 gui=NONE
 hi Title guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE
 hi Title guifg=#ffffd7 ctermfg=230 gui=bold
 hi Type guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
-hi VertSplit guifg=#666666 ctermfg=241 gui=NONE
+hi VertSplit guifg=#767676 ctermfg=243 gui=NONE
 hi Visual guifg=#1c1c1c ctermfg=234 guibg=#ffffd7 ctermbg=230 gui=NONE
 hi WarningMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi WildMenu guifg=#1c1c1c ctermfg=234 guibg=#87af5f ctermbg=107 gui=NONE
