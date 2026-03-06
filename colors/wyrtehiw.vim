@@ -36,7 +36,6 @@ hi VimString guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi vimVarScope guifg=#ffffd7 ctermfg=230 guibg=NONE ctermbg=NONE gui=NONE
 
 " Spelling
-
 hi SpellBad guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE
 hi SpellCap guifg=#ffaf87 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE
 hi SpellRare guifg=#8787af ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE
