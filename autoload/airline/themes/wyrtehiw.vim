@@ -36,9 +36,9 @@ let g:airline#themes#wyrtehiw#palette.visual_modified = {
       \ }
 
 
-let s:airline_a_inactive = [ '#4e4e4e' , '#1c1c1c' , 239 , 234 , '' ]
-let s:airline_b_inactive = [ '#4e4e4e' , '#262626' , 239 , 235 , '' ]
-let s:airline_c_inactive = [ '#4e4e4e' , '#3a3a3a' , 239 , 237 , '' ]
+let s:airline_a_inactive = [ '#767676' , '#1c1c1c' , 243 , 234 , '' ]
+let s:airline_b_inactive = [ '#767676' , '#1c1c1c' , 243 , 234 , '' ]
+let s:airline_c_inactive = [ '#767676' , '#1c1c1c' , 243 , 234 , '' ]
 let g:airline#themes#wyrtehiw#palette.inactive = airline#themes#generate_color_map(s:airline_a_inactive, s:airline_b_inactive, s:airline_c_inactive)
 let g:airline#themes#wyrtehiw#palette.inactive_modified = {
       \ 'airline_c': [ '#8787af' , '' , 103 , '' , '' ] ,
