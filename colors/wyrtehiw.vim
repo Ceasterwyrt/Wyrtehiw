@@ -60,6 +60,7 @@ hi rstSectionDelimiter guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NON
 hi rstStrongEmphasis guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=bold
 hi rstTableLines guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 
+hi Todo guifg=#8787af ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE
 hi gnuOp guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi Added guifg=#87af5f ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE
 hi ColorColumn guibg=#3a3a3a ctermbg=237 gui=NONE
